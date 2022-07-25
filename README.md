@@ -1,6 +1,6 @@
 # Timing-of-Spatial-Heterogeneity
 
-This repository currently contains a zipped file consisting of all code and data relevant to the paper Schuman, Meier, Layden and Fey 2021, "The relationship between thermal spatial variability and mean temperature alters movement patterns and population dynamics", pending publication by Ecosphere. The data and code are in a final form and are archived with a permanent DOI: 
+This repository currently contains a zipped file consisting of all code and data relevant to the paper Schuman, Meier, Layden and Fey 2021, "The relationship between thermal spatial variability and mean temperature alters movement patterns and population dynamics", pending publication by Ecosphere. The data and code are in a final form and are archived with a permanent DOI through Zenodo. 
 
 There is one .RMD file titled "Finalized Code_5_5" which consists of the code and calls on 10  additional files and one additional folder.
 
